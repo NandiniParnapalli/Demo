@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2acff5b7-896a-453c-a149-f8e08871ee0d" name="Changes" comment="" />
+    <list default="true" id="2acff5b7-896a-453c-a149-f8e08871ee0d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/dem1" beforeDir="false" afterPath="$PROJECT_DIR$/dem1" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,9 +18,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2kGml9IR8s7RMMhdMM8xNvo49A2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,6 +31,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "dem",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/ParnapalliNandiniNar/Desktop/GiftRegistry"
   }
